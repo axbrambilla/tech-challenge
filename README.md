@@ -20,8 +20,8 @@ Before you begin, ensure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/axbrambilla/tech-challenge.git
+cd tech-challenge
 ```
 
 ### Install Dependencies
