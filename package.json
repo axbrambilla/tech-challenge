@@ -1,0 +1,15 @@
+{
+  "name": "tech-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test:fe": "cypress run --config-file cypress.fe.config.js",
+    "test:api": "cypress run --config-file cypress.api.config.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "13.16.1"
+  }
+}
